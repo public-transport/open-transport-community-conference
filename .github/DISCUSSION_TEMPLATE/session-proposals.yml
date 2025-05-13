@@ -1,4 +1,4 @@
-title: "[Pitch] Your session title"
+title: "[Proposal] Your session title"
 body:
   - type: textarea
     id: description
