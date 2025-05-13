@@ -1,4 +1,4 @@
-title: "[Pitch] "
+title: "[Pitch] Your session title"
 body:
   - type: textarea
     id: description
@@ -19,4 +19,4 @@ body:
   - type: markdown
     attributes:
       value: |
-        __Thank you for participating! __ :tada:
+        *Thank you for participating!* :tada:
