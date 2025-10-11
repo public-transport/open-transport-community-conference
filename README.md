@@ -6,6 +6,8 @@ _The (un)conference about Free Software and Open Data for mobility and public tr
 
 Learn more about the conference at [https://open-transport.org/](https://open-transport.org/)
 
+Attending the conference? Please check out our [wiki](https://github.com/public-transport/open-transport-community-conference/wiki)
+
 ### Session proposals
 
 Please submit your session proposal on our [discussion board](https://github.com/public-transport/open-transport-community-conference/discussions/categories/session-proposals). 
